@@ -1,0 +1,13 @@
+{
+  "name": "bgls-on-evm",
+  "version": "1.0.0",
+  "dependencies": {
+    "bls-eth-wasm": "^1.0.2",
+    "bls12-381-keygen": "^0.1.2",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.3.14"
+  },
+  "devDependencies": {
+    "noble-bls12-381": "^0.13.1"
+  }
+}
